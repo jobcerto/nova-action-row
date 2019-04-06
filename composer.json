@@ -1,5 +1,5 @@
 {
-    "name": "jobcerto/action-row",
+    "name": "jobcerto/nova-action-row",
     "description": "A Laravel Nova field.",
     "keywords": [
         "laravel",
